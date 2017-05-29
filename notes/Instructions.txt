@@ -1,0 +1,1 @@
+Hi, run the parse.py file to convert mymanual.xml to the database. db_funcs has all the functions along with the database key words, so you change the values acc to your database there. main.py is not made yet and we are working on building it.

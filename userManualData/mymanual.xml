@@ -1,0 +1,290 @@
+<?xml version="1.0"?>
+<user_manual nameofDoc = "testing">
+	<section>
+		<name>Mymanual</name>
+		<data></data>
+	
+		<section>
+			<name>Parts/Components</name>
+			<data>
+				The Parts Available in all models are A Brush head, B Handle with ergonomic shape, C Recessed power on/off button, D Hidden brushing mode display, E Charge indicator, F Hygienic travel cap, G Charger glass (specific models), H Charging stand (specific models), I Charging base, J Charging travel case (specific models), K USB wall adapter (specific models) and L USB cord (specific models).
+			</data>
+		</section>
+	
+		<section>
+			<name>Safety Measures/Dangers/Warnings</name>
+			<data></data>
+			<section>
+				<name>Away from water/Dry</name>
+				<data>
+					Keep the plugged-in charging base away from water sources like bathtub, washbasin, etc. Do not immerse the charging base or charging travel case in water or any other liquid. After cleaning, make sure the charging base or charging travel case is completely dry before you connect it to the mains.
+				</data>
+			</section>
+			<section>
+				<name>Voltage</name>
+				<data>
+					The voltage indicated on the appliance should be made equal to the local mains voltage before you connect the appliance.
+				</data>
+			</section>	
+			<section>
+				<name>Damaged/Broken</name>
+				<data>
+					The charging base or charging travel case must not be used if it is damaged in any way. If the charging base, the charging travel case, the cord or the plug is damaged, always have it replaced with one of the original type in order to avoid a hazard. If the appliance is damaged in any way (brush head, toothbrush handle), stop using it. This appliance contains no user-serviceable parts. If the appliance is damaged, contact the Consumer Care Centre in your country (see chapter ‘Guarantee and service’).
+				</data>
+			</section>
+			<section>
+				<name>Outdoor usage</name>
+				<data>
+					Do not use the charging base or charging travel case outdoors or near heated surfaces. 
+				</data>
+			</section>	
+			<section>
+				<name>Supervised usage/children/mentally challenged</name>
+				<data>
+					This appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to ensure that they do not play with the appliance. Supervise children while they are brushing until they have established good brushing habits.
+				</data>
+			</section>
+			<section>
+				<name>Surgery/Consulting Dentist</name>
+				<data>
+					If you have had oral or gum surgery in the previous 2 months, consult your dentist before you use the toothbrush. Consult your dentist if excessive bleeding occurs after using this toothbrush or if bleeding continues to occur after 1 week of use.
+				</data>
+			</section>
+			<section>
+				<name>Electromagnetic Impact/Pacemaker</name>
+				<data>
+					The Sonicare toothbrush complies with the safety standards for electromagnetic devices. If you have a pacemaker or other implanted device, contact your physician or the device manufacturer of the implanted device before you use the Sonicare. This appliance complies with all standards regarding electromagnetic fields (EMF).
+				</data>
+			</section>
+
+			<section>
+				<name>Alternative/Different Uses</name>
+				<data>
+					This appliance has only been designed for cleaning teeth, gums and tongue. Do not use it for any other purpose. 
+				</data>
+			</section>
+
+			<section>
+				<name>Discomfort/Pain</name>
+				<data>
+					Stop using the appliance and contact your doctor if you experience any discomfort or pain. If you have medical concerns, consult your doctor before you use the Sonicare. Consult your dentist if excessive bleeding occurs.
+				</data>
+			</section>
+			<section>
+				<name>Commercial Use</name>
+				<data>
+					The Sonicare toothbrush is a personal care device and is not intended for use on multiple patients in a dental practice or institution. 
+				</data>
+			</section>				
+			<section>
+				<name>Brush head</name>
+				<data></data>
+				<section>
+					<name>Other Manufacturer</name>
+					<data>
+						Do not use other brush heads than the ones recommended by the manufacturer.
+					</data>
+				</section>
+				<section>
+					<name>Replace/Renew</name>
+					<data>
+						Stop using a brush head with crushed or bent bristles. Replace the brush head every 3 months or sooner if signs of wear appear.
+					</data>
+				</section>
+				<section>
+					<name>Cleaning</name>
+					<data>
+						Do not clean the brush head in the dishwasher. 
+					</data>
+				</section>
+				<section>
+					<name>Toothpaste</name>
+					<data>
+						Use any toothpaste. If your toothpaste contains peroxide, baking soda or bicarbonate (common in whitening toothpastes), thoroughly clean the brush head with soap and water after each use. This prevents possible cracking of the plastic.
+					</data>
+				</section>
+			</section>
+			<section>
+				<name>All/Info</name>
+				<data>
+					Keep the plugged-in charging base away from water sources like bathtub, washbasin, etc. Do not immerse the charging base or charging travel case in water or any other liquid. After cleaning, make sure the charging base or charging travel case is completely dry before you connect it to the mains. The voltage indicated on the appliance should be made equal to the local mains voltage before you connect the appliance. The charging base or charging travel case must not be used if it is damaged in any way. If the charging base, the charging travel case, the cord or the plug is damaged, always have it replaced with one of the original type in order to avoid a hazard. If the appliance is damaged in any way (brush head, toothbrush handle), stop using it. This appliance contains no user-serviceable parts. If the appliance is damaged, contact the Consumer Care Centre in your country (see chapter ‘Guarantee and service’). Do not use the charging base or charging travel case outdoors or near heated surfaces. This appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to ensure that they do not play with the appliance. Do not use the toothbrush in the bath or shower.
+				</data>
+			</section>
+		</section>
+
+		<section>
+			<name>Modes/Ways to Use/Quadpacer</name>
+			<data></data>
+			<section>
+				<name>Techniques to Use Brush</name>
+				<data></data>
+				<section>
+					<name>Scrub</name>
+					<data>
+						Do not scrub like a manual toothbrush.
+					</data>
+				</section>
+				<section>
+					<name>Motion</name>
+					<data>
+						Move the brush head slowly and gently across the teeth in a small back and forth motion so the longer bristles reach between your teeth. 
+					</data>
+				</section>
+
+				<section>
+					<name>Pressure</name>
+					<data>
+						Apply light pressure to maximize Sonicare’s effectiveness and let the Sonicare do the brushing for you.
+					</data>
+				</section>
+				<section>
+					<name>How to Best Use Brush</name>
+					<data>
+						Do not scrub like a manual toothbrush. Move the brush head slowly and gently across the teeth in a small back and forth motion so the longer bristles reach between your teeth. Apply light pressure to maximize Sonicare’s effectiveness and let the Sonicare do the brushing for you. The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience you can use the easy-start feature.
+					</data>
+				</section>
+			</section>
+			<section>
+				<name>Quadpacer/Beeper</name>
+				<data>
+					The Quadpacer is an interval timer that beeps and briefly pauses to remind you to brush the 4 sections of your mouth. Depending on the brushing mode you have selected, the Quadpacer beeps at different intervals during the brushing cycle.
+				</data>
+			</section>
+			<section>
+				<name>Modes</name>
+				<data></data>
+				<section>
+					<name>Info about Modes</name>
+					<data>
+						There are 5 modes of cleaning in the toothbrush: Clean, White, Polish, Gum care and Sensitive.
+					</data>
+				</section>
+				<section>
+					<name>Clean</name>
+					<data>
+						Clean mode is the ultimate in plaque removal (Standard mode).
+					</data>
+				</section>
+				<section>
+					<name>White</name>
+					<data>						
+						White mode is a whitening mode of 2 minutes to remove surface stains, plus an additional 30 seconds to brighten and polish your front teeth.
+					</data>
+				</section>
+				<section>
+					<name>Polish</name>
+					<data>
+						Polish is a Quick 1-minute mode to brighten and polish your front teeth.
+					</data>
+				</section>
+				<section>
+					<name>Gum care</name>
+					<data>
+						Gum care is a complete mode which combines Clean mode with an additional minute to gently stimulate and massage your gums to improve gum health.
+					</data>
+				</section>
+				<section>
+					<name>Sensitive</name>
+					<data>
+						Sensitive mode is an extra gentle mode for sensitive teeth and gums.
+					</data>
+				</section>
+			</section>
+		</section>
+
+
+		<section>
+			<name>Easy-Start</name>
+			<data></data>
+			<section>
+				<name>Info/ About Easy-start</name>
+				<data>
+					The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience, the Easy-start feature gradually increases the sonic power over the first 14 brushings. Brushing must last at least 1 minute to properly advance through this ramp-up cycle.
+				</data>
+			</section>
+			<section>
+				<name>Activate/Enable/Start/Deactivate/Disable/Stop</name>
+				<data>		
+					Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the
+					Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+				</data>
+			</section>
+		</section>
+		<section>
+			<name>Charging/Battery</name>
+			<data></data>
+			<section>
+				<name>Info/About Charging</name>
+				<data>
+					The toothbrush contains rechargeable batteries. You can charge via wall socket or USB. After 24 hrs charging, the device will work for 3 weeks.
+				</data>
+			</section>
+
+			<section>
+				<name>Wall socket</name>
+				<data>
+					This is how you charge via wall socket. Place the handle in the charging travel case, plug the USB cord into the USB wall adapter, and plug the USB wall adapter into a wall socket. The charge indicator on the handle flashes green until fully charged.
+				</data>
+			</section>
+			<section>
+				<name>USB</name>
+				<data>
+					This is how you charge via wall socket. Remove the USB cord from the USB wall adapter, and insert the USB plug into any USB port. Only use the USB wall adapter and USB cable provided.
+				</data>
+			</section>
+		</section>
+		<section>
+			<name>Cleaning/Maintenance/Rinse/Wash/Storing</name>
+			<data></data>
+			<section>
+				<name>Cleaning/Rinse/Wash</name>
+				<data>
+					Clean the Sonicare periodically. Rinse the handle and the brush head and wipe down all surfaces with a soft cloth and mild soap, if desired. Do not use sharp objects to clean. Only the charger glass is top rack dishwasher-safe. Do not clean brush head, handle, charging base or charging travel case in the dishwasher.
+				</data>
+			</section>
+			<section>
+				<name>Store/Keep Aside</name>
+				<data>
+					If you are not going to use the Sonicare for an extended period of time, unplug the charging base, clean all parts and store them in a cool, dry place away from direct sunlight.
+				</data>
+			</section>
+		</section>
+		<section>
+			<name>Disposal/Throw Away/Trash</name>
+			<data></data>
+			<section>
+				<name>Info/Model</name>
+				<data>
+					Do not throw away the appliance with the normal household waste at the end of its life, but hand it in at an official collection point for recycling. Dispose of the rechargeable battery at an official collection point for batteries to save the environment. Only remove the rechargeable battery at the end of the product’s life since this process is not reversible. </data>
+			</section>
+			<section>
+				<name>Battery Removal</name>
+				<data>
+					Make sure the rechargeable battery is empty. To remove the rechargeable battery from the handle: Place the handle on a solid surface and lightly tap the housing about 2.5cm from the bottom edge with a hammer. Turn the handle 90 degrees and repeat until the bottom cap separates from the handle.
+				</data>
+			</section>
+		</section>
+		<section>
+			<name>Issues/Problems/Warranty/Guarantee/Service/Doesn’t Work</name>
+			<data></data>
+			<section>
+				<name>Service/Care Center</name>
+				<data>
+					If you need service or information or if you have a problem, please visit the Philips website at www.philips.com or contact the Philips Consumer Care Centre in your country. You find its phone number in the worldwide guarantee leaflet. If there is no Consumer Care Centre in your country, go to your local Philips dealer.
+				</data>
+			</section>
+			<section>
+				<name>Warranty/Guarantee</name>
+				<data>
+					The terms of the international guarantee do not cover the following: Brush heads, Damage caused by misuse, abuse, neglect, alterations or unauthorized repair, Normal wear and tear, including chips, scratches, abrasions, discoloration or fading.
+				</data>
+			</section>
+			<section>
+				<name>Issues/Problems/Doesn’t Work/ Doesn’t Start</name>
+				<data>
+					Before anything else please make sure you have charged the device and read the user manual properly. You can contact the Philips Consumer Care Center or www.philips.com for more info.
+				</data>
+			</section>
+		</section>
+	</section>
+</user_manual>

@@ -1,0 +1,9 @@
+Before running the code please install the following libraries/programs/packages:
+1) Python 3.6 and install (using pip install/conda install in anaconda)
+nltk
+psycopg2
+scipy
+gensim
+
+
+2)PostgreSql and pgadmin (for graphical interface to the database)
