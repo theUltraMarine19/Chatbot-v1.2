@@ -5,7 +5,7 @@ import sys
 #
 # e = PorterStemmer()
 # # v = VectorSpace(["cat","cat dog","hat"],[])
-# # li = v.search(["cat","hat"])
+ # li = v.search(["cat","hat"])
 # # print(li)
 # # v1 = VectorSpace(["cat","cat dog","hat"])
 # # l2 = v1.related(0)

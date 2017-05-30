@@ -1,8 +1,10 @@
-hostname = 'localhost'
-username = 'postgres'
-password = 'Welcome@12345'
-database = 'knowledge_graph'
+from CONSTANTS import db_constants
 import psycopg2
+
+hostname = db_constants.myConstants.hostname
+username = db_constants.myConstants.username
+password = db_constants.myConstants.password
+database = db_constants.myConstants.database
 
 def delete_data(table_name):
 	sql = 'delete from '+table_name+';'

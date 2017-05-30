@@ -1,0 +1,2 @@
+class myConstants:
+    initialState = "Mymanual"
