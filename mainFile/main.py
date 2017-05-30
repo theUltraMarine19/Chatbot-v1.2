@@ -1,5 +1,17 @@
+import random
+
+from CONSTANTS import file_constants
 from dbFuncns import db_funcs as db
 from mostProbTopic.implementation import QnA
+
+
+def get_answer():
+    return 0
+
+def sent_answer(qn,currrentState):
+    ans = callback_for_reply(qn, currrentState, False)
+    return ans
+
 
 # Takes a list of topics and returns a list of lists that replaces the topics which have a '/' with
 # a list containing the topics in a separate list
@@ -21,9 +33,9 @@ def combine_subtopics(list):
 # QnA function and also a subList which has the list of all the original topics and returns a tuple where each of the
 # tuple has the first element that is directly queriable
 def combine_for_querying(probList, sublists):
+    ## Make two dicts stroing the information whether a particular topic is visited or not.
     vis = {}
     corr = {}
-
     i = 0
     splittedList = split_subtopics(sublists)
     for el in splittedList:
@@ -41,14 +53,14 @@ def combine_for_querying(probList, sublists):
             vis[corr[element[0]]] = True
     return combinedList
 
-
 # Takes a question and a state from which querying starts and a boolean (False if it is the first call of the function or false otherwise)
 # Returns an answer and a state.
+
 def callback_for_reply(question, state, matchFound):
     subLists = db.get_subtopics(state)
     # print(subLists)
     if len(subLists) == 0:
-        return (db.get_data(state), state)
+        return (db.get_data(state), file_constants.myConstants.initialState)
 
     subTopicsParsed = split_subtopics(subLists)
     singleSubTopicsParsed = flatten_list(subTopicsParsed)
@@ -60,7 +72,7 @@ def callback_for_reply(question, state, matchFound):
 
     # sorted(mostProbableTopics,key=lambda x: x[1],reverse = True)
 
-    print(mostProbableTopics)
+    #print(mostProbableTopics)
     probableTopicsForDB = combine_for_querying(mostProbableTopics, subLists)
 
     threshold = 0.4
@@ -70,26 +82,40 @@ def callback_for_reply(question, state, matchFound):
     if probableTopicsForDB[0][1] > threshold:
         return callback_for_reply(question, probableTopicsForDB[0][0], True)
     else:
+        str10 = "I suppose you can go to the following subtopics: \n"
+        str11 = "Do you want to know more about any of the following: \n"
+        str12 = "Am almost able to find your answer. Tell me whether you want one of the following: \n"
+        str13 = "I need more help :( Please select one of the following: \n"
+        str3 = [str10, str11, str12, str13]
+        ind = random.randint(0,3)
+        str1 = str3[ind]
+        listmsg = ""
+        for ele in subLists:
+            listmsg+= "\t" + ele +"\n"
+        str2 = "I didn't get you really !! Please choose something related to: \n"
+        #print(listmsg)
         if matchFound:
-            return ("I suppose you can go to the following subtopics " + " ".join(subLists), state)
+            #return ("I suppose you can go to the following subtopics " + '\n'.join(subLists), state)
+            return (str1+listmsg, state)
         else:
-            return ("I didn't get you really !! Please choose something related to " + " ".join(subLists), state)
+            #return ("I didn't get you really !! Please choose something related to " + " ".join(subLists), state)
+            return (str2 + listmsg, state)
 
-            # # Think of an algorithm which decides the reply to send
-            # for ans in Ans:
-            # 	if ans[1] > 0.5:
-            # 		callback_for_reply(question, ans[0])
-            # 		break;
-            # 	elif ans[1] > 0.3:
-            # 		callback_for_reply(question, ans[0])
-            # 	else:
-            # 		callback_for_reply()
-
-
-# list1 = ["Huzefa", "Harsha/Varsha", "Arijit", "Purav/Sagar","Anusha"]
-# prob = [("Anusha", 0.9), ("Varsha", 0.85), ("Sagar", 0.6), ("Purav", 0.5), ("Huzefa", 0.45), ("Harsha", 0.3)]
-
-# print(combine_for_querying(prob,list1))
-
-print(callback_for_reply("What is dangerous?", "Mymanual", False))
-print(db.get_parent("Easy-Start"))
+# replyMsg,state = callback_for_reply("What is dangerous?", "Away from water/Dry", False)
+# print(replyMsg)
+# replyMsg,state = callback_for_reply("Do you think the safety is enough for children?", "Mymanual", False)
+# print(replyMsg)
+# replyMsg, state = callback_for_reply("How to activate Easy-Start on my toothbrush?", "Mymanual", False)
+# print(replyMsg)
+# replyMsg, state = callback_for_reply("What are the different parts of my toothbrush?", "Mymanual", False)
+# print(replyMsg)
+# replyMsg, state = callback_for_reply("What are the different modes of using the toothbrush?", "Mymanual", False)
+# print(replyMsg)
+# replyMsg, state = callback_for_reply("Is toothbrush available for commercial use?", "Mymanual", False)
+# print(replyMsg)
+# replyMsg, state = callback_for_reply("What is the cost?", "Mymanual", False)
+# print(replyMsg)
+# replyMsg, state = callback_for_reply("Is the toothbrush safe?", "Mymanual", False)
+# print(replyMsg)
+# replyMsg,state = callback_for_reply("What is dangerous?", "Mymanual", False)
+# print(replyMsg)
