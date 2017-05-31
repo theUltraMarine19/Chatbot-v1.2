@@ -27,7 +27,7 @@ class VectorSpace:
     extent = 0
 
     #enter paragraphs as individual elements of the list
-    def __init__(self, documents=[], transforms=[TFIDF,LSA]):
+    def __init__(self, documents=[], transforms=[TFIDF]):
         self.collection_of_document_term_vectors = []
         self.parser = Parser()
         if len(documents) > 0:
@@ -65,7 +65,7 @@ class VectorSpace:
         """ create the keyword associated to the position of the elements within the document vectors """
         vocabulary_list = self.parser.tokenise_and_remove_stop_words(document_list)
         unique_vocabulary_list = self._remove_duplicates(vocabulary_list)
-        # print(unique_vocabulary_list)
+        print(unique_vocabulary_list)
 
         vector_index = {} # this is a dict
         offset = 0
@@ -108,6 +108,6 @@ class VectorSpace:
         # print(norm(vector2))
         if not any(vector1):
             return -2.0
-        if not any(vector2):
-            return -3.0
+        # if not any(vector2):
+        #     return -3.0
         return float(dot(vector1, vector2) / (norm(vector1) * norm(vector2)))

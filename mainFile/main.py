@@ -4,12 +4,12 @@ from CONSTANTS import file_constants
 from dbFuncns import db_funcs as db
 from mostProbTopic.implementation import QnA
 
-def get_answer():
-    return 0
 
 def sent_answer(qn,currrentState):
-    print("In sent")
     ans = callback_for_reply(qn, currrentState, file_constants.myConstants.myScoreInit)
+    fp = open("questions.txt","a+")
+    fp.write("question:"+qn+"\n")
+    fp.write("answer:"+ans[0]+"\n")
     return ans
 
 # Takes a list of topics and returns a list of lists that replaces the topics which have a '/' with
@@ -31,7 +31,7 @@ def combine_subtopics(list):
 # QnA function and also a subList which has the list of all the original topics and returns a tuple where each of the
 # tuple has the first element that is directly queriable
 def combine_for_querying(probList, sublists):
-    ## Make two dicts stroing the information whether a particular topic is visited or not.
+    ## Make two dicts storing the information whether a particular topic is visited or not.
     vis = {}
     corr = {}
     i = 0
@@ -63,10 +63,10 @@ def callback_for_reply(question, state, myScore):
     maxScore = file_constants.myConstants.maxScoreInit
 
     if len(subLists) == 0:
-        return (db.get_data(state), file_constants.myConstants.initialState, myScore)
+        return (db.get_data(state), file_constants.myConstants.initialState, myScore) ##returns the data in the leaf
 
-    subTopicsParsed = split_subtopics(subLists)
-    singleSubTopicsParsed = flatten_list(subTopicsParsed)
+    subTopicsParsed = split_subtopics(subLists) ###splits the subtopics
+    singleSubTopicsParsed = flatten_list(subTopicsParsed) ### flattening all the topics
     # print(singleSubTopicsParsed)
 
     # Send question and a list of topics to Arijit's api call

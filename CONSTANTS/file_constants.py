@@ -1,5 +1,5 @@
 class myConstants:
     initialState = "Mymanual"
-    maxScoreInit = -2
-    myScoreInit = 2
+    maxScoreInit = -10
+    myScoreInit = 10
     salutation_messages = ["hi", "hello", "hey", "whatsup", "hiya", "yo"]

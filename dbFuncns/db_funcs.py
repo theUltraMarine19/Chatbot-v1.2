@@ -144,3 +144,24 @@ def get_subtopics(topic):
 	cur.close()
 
 	return sub_list
+
+def get_all_sub_topics():
+	conn = None
+
+	conn = psycopg2.connect(host=hostname, user=username, password=password, dbname=database)
+	# create a new cursor
+	cur = conn.cursor()
+	# execute the INSERT statement
+	sql = 'select sub_topic from topic_map ;'
+
+	cur.execute(sql)
+
+	records = cur.fetchall()
+
+	sub_list = [rec[0] for rec in records]
+	# commit the changes to the database
+	conn.commit()
+	# close communication with the database
+	cur.close()
+
+	return sub_list

@@ -1,0 +1,183 @@
+question:How do I use my toothbrush
+answer:This appliance has only been designed for cleaning teeth, gums and tongue. Do not use it for any other purpose.
+question:Can I know how to use my toothbrush
+answer:I suppose you can go to the following subtopics: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:modes
+answer:Do you want to know more about any of the following: 
+	Clean
+	Polish
+	Sensitive
+	Info about Modes
+	White
+	Gum care
+
+question:polush
+answer:I didn't get you really !! Please choose something related to: 
+	Clean
+	Polish
+	Sensitive
+	Info about Modes
+	White
+	Gum care
+
+question:polish
+answer:Polish is a Quick 1-minute mode to brighten and polish your front teeth.
+question:Can I know how to use my toothbrush
+answer:Am almost able to find your answer. Tell me whether you want one of the following: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:can i know how to use my tooth brush
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:tech
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:techniques
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:Techniques
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:Techniques
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:use
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:modes
+answer:I need more help :( Please select one of the following: 
+	Clean
+	Polish
+	Sensitive
+	Info about Modes
+	White
+	Gum care
+
+question:clean
+answer:Clean mode is the ultimate in plaque removal (Standard mode).
+question:Can I know how to use my toothbrush
+answer:Do you want to know more about any of the following: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:Modes
+answer:I need more help :( Please select one of the following: 
+	Clean
+	Polish
+	Sensitive
+	Info about Modes
+	White
+	Gum care
+
+question:polish
+answer:Polish is a Quick 1-minute mode to brighten and polish your front teeth.
+question:Can I know how to use my toothbrush
+answer:Am almost able to find your answer. Tell me whether you want one of the following: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:Techniques
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:modes
+answer:I need more help :( Please select one of the following: 
+	Clean
+	Polish
+	Sensitive
+	Info about Modes
+	White
+	Gum care
+
+question:Techniques
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:Can I know how to use my toothbrush
+answer:This is how you charge via wall socket. Remove the USB cord from the USB wall adapter, and insert the USB plug into any USB port. Only use the USB wall adapter and USB cable provided.
+question:techniqu
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:Techniques
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:how do I use my sonicare toothbrush
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:how do I charge my sonicare
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:Can I know how to use my toothbrush
+answer:I suppose you can go to the following subtopics: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:what are the techniques to use toothbrush?
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:techniques
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:Techniques
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
+question:Techniques to Use Brush
+answer:Do not scrub like a manual toothbrush. Move the brush head slowly and gently across the teeth in a small back and forth motion so the longer bristles reach between your teeth. Apply light pressure to maximize Sonicares effectiveness and let the Sonicare do the brushing for you. The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience you can use the easy-start feature.
+question:Techniques
+answer:I didn't get you really !! Please choose something related to: 
+	Quadpacer/Beeper
+	Techniques to Use Brush
+	Modes
+
