@@ -39,6 +39,21 @@ def create_table(table_name,column_list):
 		# close communication with the database
 	cur.close()
 
+def delete_table(table_name):
+	sql = 'drop table ' + table_name +';'
+	conn = None
+	# connect to the PostgreSQL database
+	conn = psycopg2.connect(host=hostname, user=username, password=password, dbname=database)
+	# create a new cursor
+	cur = conn.cursor()
+	# execute the INSERT statement
+	cur.execute(sql)
+	# commit the changes to the database
+	conn.commit()
+	# close communication with the database
+	cur.close()
+
+
 ## Takes a topic_name and data which it stores in the database
 def add_data(topic_name,data):
 	sql = 'INSERT INTO topic_data VALUES(\''+str(topic_name)+'\',\''+str(data)+'\');'
@@ -88,7 +103,7 @@ def get_data(topic_name):
 	conn.commit()
 		# close communication with the database
 	cur.close()
-	return data
+	return data[0]
 
 ## Takes a parent topic and a subtopic as params and stores it in the database
 def add_topic(topic, subtopic):

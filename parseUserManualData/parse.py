@@ -24,9 +24,8 @@ documentRoot = root[0]
 db_funcs.delete_data("topic_map")
 db_funcs.delete_data("topic_data")
 
-# Adds root's parent as root itself
-
-db_funcs.add_topic(findSecAttribute(documentRoot,"name"),findSecAttribute(documentRoot,"name"))
+# Adds root's parent as root
+db_funcs.add_topic(findSecAttribute(documentRoot,"name"),"root")
 db_funcs.add_data(findSecAttribute(documentRoot,"name"),findSecAttribute(documentRoot,"data"))
 
 def myDfs(root):
