@@ -1,3 +1,4 @@
 .idea
-dbFuncns/__pycache__
-mostProbTopic/__pycache__
+*.pyc
+*/__pycache__
+CONSTANTS/db_constants

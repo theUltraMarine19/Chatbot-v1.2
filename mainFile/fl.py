@@ -12,7 +12,7 @@ currState = "Mymanual"
 currMsg = ""
 CORS(app)
 
-@app.route('/authr', methods=['GET'])
+@app.route('/auth', methods=['GET'])
 # @auth.login_required
 def get_auth():
     global currMsg, currState
@@ -33,14 +33,6 @@ def post_auth():
     currMsg, currState, currScore = main.sent_answer(ut,currState)
     # return ut+str(datetime.datetime.now())
     return currMsg
-
-
-@app.route('/auth', methods=['GET'])
-
-# @auth.login_required
-def get_authr():
-    dialogue = "fb"
-    return dialogue
 
 if __name__ == "__main__":
     app.run(host='localhost',port = 9004)

@@ -1,5 +1,5 @@
 class myConstants:
     hostname = 'localhost'
     username = 'postgres'
-    password = 'Welcome@12345'
+    password = 'anusha'
     database = 'knowledge_graph'
