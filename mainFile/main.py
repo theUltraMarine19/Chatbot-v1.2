@@ -78,7 +78,7 @@ def callback_for_reply(question, state, myScore):
     # Send question and a list of topics to QnA api call from mostProbTopic
     # Get back a list of topics and their probabilities in decreasing order as a list of tuples
     mostProbableTopics = QnA(question, singleSubTopicsParsed)
-    print(mostProbableTopics)
+    # print(mostProbableTopics)
 
     probableTopicsForDB = combine_for_querying(mostProbableTopics, subLists)
 
@@ -112,4 +112,4 @@ def callback_for_reply(question, state, myScore):
             else:
                 return(maxMsg, maxState, maxScore)
 
-    return(maxMsg, maxState, maxScore)  
+    return(maxMsg, maxState, maxScore)

@@ -326,3 +326,14 @@ answer:I didn't get you really !! Please choose something related to:
 	Disposal/Throw Away/Trash
 	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
 
+question:Yo mama
+answer:I didn't get you really !! Please choose something related to: 
+	Safety Measures/Dangers/Warnings
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Parts/Components
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+
