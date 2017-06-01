@@ -1,4 +1,4 @@
 .idea
 *.pyc
 */__pycache__
-CONSTANTS/db_constants
+CONSTANTS/db_constants.py
