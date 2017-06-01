@@ -65,7 +65,7 @@ class VectorSpace:
         """ create the keyword associated to the position of the elements within the document vectors """
         vocabulary_list = self.parser.tokenise_and_remove_stop_words(document_list)
         unique_vocabulary_list = self._remove_duplicates(vocabulary_list)
-        print(unique_vocabulary_list)
+        # print(unique_vocabulary_list)
 
         vector_index = {} # this is a dict
         offset = 0

@@ -181,3 +181,148 @@ answer:I didn't get you really !! Please choose something related to:
 	Techniques to Use Brush
 	Modes
 
+question:How do I use my toothbrush ;)
+answer:I suppose you can go to the following subtopics: 
+	Techniques to Use Brush
+	Quadpacer/Beeper
+	Modes
+
+question:How do I use my tb
+answer:Do you want to know more about any of the following: 
+	Techniques to Use Brush
+	Quadpacer/Beeper
+	Modes
+
+question:Haah
+answer:I didn't get you really !! Please choose something related to: 
+	root
+	Parts/Components
+	Safety Measures/Dangers/Warnings
+	Modes/Ways to Use/Quadpacer
+	Easy-Start
+	Charging/Battery
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+
+question:How do I use my Sonicare toothbrush ?!
+answer:I suppose you can go to the following subtopics: 
+	Techniques to Use Brush
+	Quadpacer/Beeper
+	Modes
+
+question:How do I use my Sonicare toothbrush ?!
+answer:I didn't get you really !! Please choose something related to: 
+	Techniques to Use Brush
+	Quadpacer/Beeper
+	Modes
+
+question:How do I use my Sonicare toothbrush ?!
+answer:Am almost able to find your answer. Tell me whether you want one of the following: 
+	Techniques to Use Brush
+	Quadpacer/Beeper
+	Modes
+
+question:Techniques of using my brush
+answer:Do not scrub like a manual toothbrush. Move the brush head slowly and gently across the teeth in a small back and forth motion so the longer bristles reach between your teeth. Apply light pressure to maximize Sonicares effectiveness and let the Sonicare do the brushing for you. The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience you can use the easy-start feature.
+question:Is it safe to use my brush
+answer:Do not scrub like a manual toothbrush. Move the brush head slowly and gently across the teeth in a small back and forth motion so the longer bristles reach between your teeth. Apply light pressure to maximize Sonicares effectiveness and let the Sonicare do the brushing for you. The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience you can use the easy-start feature.
+question:How to easy-start my toothbrush
+answer:I need more help :( Please select one of the following: 
+	Info/ About
+	Activate/Enable/Start/Deactivate/Disable/Stop
+
+question:How to start easy my toothbrush
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the
+					Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:How do I use my Sonicare toothbrush ?!
+answer:Do not scrub like a manual toothbrush. Move the brush head slowly and gently across the teeth in a small back and forth motion so the longer bristles reach between your teeth. Apply light pressure to maximize Sonicares effectiveness and let the Sonicare do the brushing for you. The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience you can use the easy-start feature.
+question:Can I use my toothbrush for multiple people
+answer:Do not scrub like a manual toothbrush. Move the brush head slowly and gently across the teeth in a small back and forth motion so the longer bristles reach between your teeth. Apply light pressure to maximize Sonicares effectiveness and let the Sonicare do the brushing for you. The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience you can use the easy-start feature.
+question:What about safety of children
+answer:This appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to ensure that they do not play with the appliance. Supervise children while they are brushing until they have established good brushing habits.
+question:What are the modes of op
+answer:There are 5 modes of cleaning in the toothbrush: Clean, White, Polish, Gum care and Sensitive.
+question:How to determine is Arijit is gay?
+answer:I didn't get you really !! Please choose something related to: 
+	Safety Measures/Dangers/Warnings
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Parts/Components
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+
+question:
+answer:I didn't get you really !! Please choose something related to: 
+	Safety Measures/Dangers/Warnings
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Parts/Components
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+
+question:
+answer:I didn't get you really !! Please choose something related to: 
+	Safety Measures/Dangers/Warnings
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Parts/Components
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+
+question:Haha
+answer:I didn't get you really !! Please choose something related to: 
+	Safety Measures/Dangers/Warnings
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Parts/Components
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+
+question:I want to know about safety of children
+answer:This appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to ensure that they do not play with the appliance. Supervise children while they are brushing until they have established good brushing habits.
+question:What are the modes of op
+answer:There are 5 modes of cleaning in the toothbrush: Clean, White, Polish, Gum care and Sensitive.
+question:Is it allowed to use it for commercial purposes
+answer:Do not scrub like a manual toothbrush. Move the brush head slowly and gently across the teeth in a small back and forth motion so the longer bristles reach between your teeth. Apply light pressure to maximize Sonicares effectiveness and let the Sonicare do the brushing for you. The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience you can use the easy-start feature.
+question:Huz
+answer:I didn't get you really !! Please choose something related to: 
+	Safety Measures/Dangers/Warnings
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Parts/Components
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+
+question:Yo ma
+answer:I didn't get you really !! Please choose something related to: 
+	Safety Measures/Dangers/Warnings
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Parts/Components
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+
+question:yoyo
+answer:I didn't get you really !! Please choose something related to: 
+	Safety Measures/Dangers/Warnings
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Parts/Components
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+

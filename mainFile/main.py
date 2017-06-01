@@ -51,38 +51,39 @@ def combine_for_querying(probList, sublists):
             vis[corr[element[0]]] = True
     return combinedList
 
+str_1 = "I suppose you can go to the following subtopics: \n"
+str_2 = "Do you want to know more about any of the following: \n"
+str_3 = "Am almost able to find your answer. Tell me whether you want one of the following: \n"
+str_4 = "I need more help to get you your answer:( Please select one of the following: \n"
+strOptsForStuckState = [str_1, str_2, str_3, str_4]
+strInitStateReply = "I didn't get you really !! Please choose something related to: \n"
+
 # Takes a question and a state from which querying starts and a score
 # Returns an answer,state and a possible score
-
 def callback_for_reply(question, state, myScore):
+    global strOptsForStuckState, strInitStateReply
     subLists = db.get_subtopics(state)
-    # print(subLists)
 
     maxMsg = ""
     maxState = ""
     maxScore = file_constants.myConstants.maxScoreInit
 
     if len(subLists) == 0:
-        return (db.get_data(state), file_constants.myConstants.initialState, myScore) ##returns the data in the leaf
+        # returns data at the leaf
+        return (db.get_data(state), file_constants.myConstants.initialState, myScore)
 
-    subTopicsParsed = split_subtopics(subLists) ###splits the subtopics
-    singleSubTopicsParsed = flatten_list(subTopicsParsed) ### flattening all the topics
-    # print(singleSubTopicsParsed)
+    subTopicsParsed = split_subtopics(subLists)
+    singleSubTopicsParsed = flatten_list(subTopicsParsed)
 
-    # Send question and a list of topics to Arijit's api call
+    # Send question and a list of topics to QnA api call from mostProbTopic
     # Get back a list of topics and their probabilities in decreasing order as a list of tuples
-    print("In callback before QnA")
     mostProbableTopics = QnA(question, singleSubTopicsParsed)
     print(mostProbableTopics)
-    print("In callback after QnA")
 
-    # sorted(mostProbableTopics,key=lambda x: x[1],reverse = True)
-
-    #print(mostProbableTopics)
     probableTopicsForDB = combine_for_querying(mostProbableTopics, subLists)
 
-    thresholdLow  = 0.4
-    thresholdHigh = 0.6
+    thresholdLow  = file_constants.myConstants.thresholdLow
+    thresholdHigh = file_constants.myConstants.thresholdHigh
 
     # dataFromCurrentState = get_data(state)
 
@@ -91,57 +92,24 @@ def callback_for_reply(question, state, myScore):
         if score > thresholdLow:
             if score > thresholdHigh:
                 return (msg, st, score)
-            elif score> myScore:
+            elif score> maxScore:
                 maxMsg = msg
                 maxState = st
                 maxScore = score
         else:
-            str10 = "I suppose you can go to the following subtopics: \n"
-            str11 = "Do you want to know more about any of the following: \n"
-            str12 = "Am almost able to find your answer. Tell me whether you want one of the following: \n"
-            str13 = "I need more help :( Please select one of the following: \n"
-            str3 = [str10, str11, str12, str13]
 
-            ind = random.randint(0, 3)
-            str1 = str3[ind]
-            str2 = ""
-
-            listmsg = ""
-
-            for ele in subLists:
-                listmsg += "\t" + ele + "\n"
-                str2 = "I didn't get you really !! Please choose something related to: \n"
+            subTopicsListReply = ""
+            for subListName in subLists:
+                subTopicsListReply += "\t" + subListName + "\n"
 
             if maxScore == file_constants.myConstants.maxScoreInit :
                if myScore == file_constants.myConstants.myScoreInit:
-                   return (str2+listmsg, state,myScore)
+                   return (strInitStateReply+subTopicsListReply, state,myScore)
                else:
-                   return (str1 + listmsg, state, myScore)
+                   ind = random.randint(0, 3)
+                   str_for_reply = strOptsForStuckState[ind]
+                   return (str_for_reply + subTopicsListReply, state, myScore)
             else:
                 return(maxMsg, maxState, maxScore)
-                # if myScore != -1:
-                #     #return ("I suppose you can go to the following subtopics " + '\n'.join(subLists), state)
-                #     return (str1+listmsg, state)
-                # else:
-                #     #return ("I didn't get you really !! Please choose something related to " + " ".join(subLists), state)
-                #     return (str2 + listmsg, state)
-    return(maxMsg, maxState, maxScore)
 
-# replyMsg,state,score = callback_for_reply("What is dangerous?", file_constants.myConstants.initialState, file_constants.myConstants.myScoreInit)
-# print(replyMsg)
-# replyMsg,state, score = callback_for_reply("Do you think the safety is enough for children?", "Mymanual", file_constants.myConstants.myScoreInit)
-# print(replyMsg)
-# replyMsg, state, score = callback_for_reply("How to activate Easy-Start on my toothbrush?", "Mymanual", file_constants.myConstants.myScoreInit)
-# print(replyMsg)
-# replyMsg, state, score = callback_for_reply("What are the different parts of my toothbrush?", "Mymanual", file_constants.myConstants.myScoreInit)
-# print(replyMsg)
-# replyMsg, state, score = callback_for_reply("What are the different modes of using the toothbrush?", "Mymanual", file_constants.myConstants.myScoreInit)
-# print(replyMsg)
-# replyMsg, state, score = callback_for_reply("Can it be used for commercial use?", "Mymanual", file_constants.myConstants.myScoreInit)
-# print(replyMsg)
-# replyMsg, state, score = callback_for_reply("What is the cost?", "Mymanual", file_constants.myConstants.myScoreInit)
-# print(replyMsg)
-# replyMsg, state, score = callback_for_reply("Is the toothbrush safe?", "Mymanual", file_constants.myConstants.myScoreInit)
-# print(replyMsg)
-# replyMsg,state, score = callback_for_reply("What is dangerous?", "Mymanual", file_constants.myConstants.myScoreInit)
-# print(replyMsg)
+    return(maxMsg, maxState, maxScore)  
