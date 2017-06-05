@@ -26,12 +26,13 @@ class Test:
         # li.sort(reverse=True)
         # print("THE LIST %s" % li)
         # pl = sorted(range(len(li)), key=lambda x: li[x])[-5:]
-        pl = sorted(range(len(li)), key=lambda x: li[x], reverse = True) # Sorting
+        # pl = sorted(range(len(li)), key=lambda x: li[x], reverse = True) # Sorting
         # print(pl)
         # pl.sort(reverse=True)
         # print("THE QUERY WEIGHTS %s" % li) 
         # LET'S SORT li AND TRY
         # sorted(pl,key=lambda y: li[y],reverse=True) # Are you double sorting it?
+        pl = enumerate(li)
         maxl = max(li)
         # print("\n")
         # print(pl)
@@ -44,9 +45,10 @@ class Test:
             tuple = ()  # making the tuple
             # print(self.documents[index])
             # print(li[index])
-            tuple = (self.documents[index],li[index])
+            tuple = (self.documents[index[0]],index[1])
             # print(tuple)
             result.append(tuple)
+        # print(result)
         return result
 
     def input(self,question): # single intent question in one turn

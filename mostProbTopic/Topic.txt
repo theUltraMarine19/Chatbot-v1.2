@@ -1,0 +1,5 @@
+wash
+keep asid
+store
+rins
+clean

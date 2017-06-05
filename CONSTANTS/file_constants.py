@@ -4,4 +4,4 @@ class myConstants:
     myScoreInit = 10
     salutation_messages = ["hi", "hello", "hey", "whatsup", "hiya", "yo"]
     thresholdLow = 0.4
-    thresholdHigh = 0.6
+    thresholdHigh = 0.75

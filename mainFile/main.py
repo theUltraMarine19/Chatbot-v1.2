@@ -3,6 +3,7 @@ import random
 from CONSTANTS import file_constants
 from dbFuncns import db_funcs as db
 from mostProbTopic.implementation import QnA
+from mostProbTopic.querytest import QnA2
 
 
 def sent_answer(qn,currrentState):
@@ -31,6 +32,9 @@ def combine_subtopics(list):
 # QnA function and also a subList which has the list of all the original topics and returns a tuple where each of the
 # tuple has the first element that is directly queriable
 def combine_for_querying(probList, sublists):
+    # print("Haha")
+    # print(probList)
+    # print(sublists)
     ## Make two dicts storing the information whether a particular topic is visited or not.
     vis = {}
     corr = {}
@@ -74,11 +78,21 @@ def callback_for_reply(question, state, myScore):
 
     subTopicsParsed = split_subtopics(subLists)
     singleSubTopicsParsed = flatten_list(subTopicsParsed)
-
+    # print("---------1", subTopicsParsed)
+    # print("---------2", singleSubTopicsParsed)
     # Send question and a list of topics to QnA api call from mostProbTopic
     # Get back a list of topics and their probabilities in decreasing order as a list of tuples
-    mostProbableTopics = QnA(question, singleSubTopicsParsed)
-    # print(mostProbableTopics)
+    mostProbableTopics1 = QnA2(question, singleSubTopicsParsed)
+    mostProbableTopics2 = QnA(question, singleSubTopicsParsed)
+    mostProbableTopics = []
+    for i in range(0, len(mostProbableTopics1)):
+        tuple = (mostProbableTopics1[i][0], mostProbableTopics1[i][1]*0.55 + mostProbableTopics2[i][1]*0.45)
+        mostProbableTopics.append(tuple)
+    mostProbableTopics = sorted(mostProbableTopics, key = lambda x: x[1], reverse = True)
+    print(mostProbableTopics1)
+    print(mostProbableTopics2)
+    print(mostProbableTopics)
+
 
     probableTopicsForDB = combine_for_querying(mostProbableTopics, subLists)
 
@@ -88,6 +102,7 @@ def callback_for_reply(question, state, myScore):
     # dataFromCurrentState = get_data(state)
 
     for i in range(0,len(probableTopicsForDB)):
+        # question1 = question.replace(proba)
         msg, st, score = callback_for_reply(question, probableTopicsForDB[i][0], probableTopicsForDB[i][1])
         if score > thresholdLow:
             if score > thresholdHigh:

@@ -107,7 +107,7 @@ class VectorSpace:
         # print(norm(vector1))
         # print(norm(vector2))
         if not any(vector1):
-            return -2.0
+            return 0.0
         # if not any(vector2):
         #     return -3.0
         return float(dot(vector1, vector2) / (norm(vector1) * norm(vector2)))

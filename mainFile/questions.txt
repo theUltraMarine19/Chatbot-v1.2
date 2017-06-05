@@ -337,3 +337,91 @@ answer:I didn't get you really !! Please choose something related to:
 	Disposal/Throw Away/Trash
 	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
 
+question:Easy-Start
+answer:I didn't get you really !! Please choose something related to: 
+	Parts/Components
+	Safety Measures/Dangers/Warnings
+	Modes/Ways to Use/Quadpacer
+	Easy-Start
+	Charging/Battery
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+
+question:Safety warnings for children
+answer:This appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to ensure that they do not play with the appliance. Supervise children while they are brushing until they have established good brushing habits.
+question:How to easy-start your toothbrush
+answer:Do not scrub like a manual toothbrush.
+question:How to use my Sonicare toothbrush ?!!!
+answer:Do not scrub like a manual toothbrush.
+question:how to easystart?
+answer:I didn't get you really !! Please choose something related to: 
+	Parts/Components
+	Safety Measures/Dangers/Warnings
+	Modes/Ways to Use/Quadpacer
+	Easy-Start
+	Charging/Battery
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+
+question:How to easy-start my sonicare toothbrush?
+answer:Do not scrub like a manual toothbrush.
+question:Info for easy-start
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:how to easy-start my toothbrush?
+answer:I suppose you can go to the following subtopics: 
+	Info/About
+	Activate/Enable/Start/Deactivate/Disable/Stop
+
+question:Info
+answer:The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience, the Easy-start feature gradually increases the sonic power over the first 14 brushings. Brushing must last at least 1 minute to properly advance through this ramp-up cycle.
+question:Is it safe for children?
+answer:This appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to ensure that they do not play with the appliance. Supervise children while they are brushing until they have established good brushing habits.
+question:What is the easy-start feature all about?
+answer:I need more help to get you your answer:( Please select one of the following: 
+	Info/About
+	Activate/Enable/Start/Deactivate/Disable/Stop
+
+question:Give me info on easy-start
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:How many modes are there in this toothbrush?
+answer:There are 5 modes of cleaning in the toothbrush: Clean, White, Polish, Gum care and Sensitive.
+question:I want to know about the clean mode of toothbrush
+answer:Clean the Sonicare periodically. Rinse the handle and the brush head and wipe down all surfaces with a soft cloth and mild soap, if desired. Do not use sharp objects to clean. Only the charger glass is top rack dishwasher-safe. Do not clean brush head, handle, charging base or charging travel case in the dishwasher.
+question:How to deactivate the easy-start feature of my toothbrush?
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:easy-start?
+answer:I need more help to get you your answer:( Please select one of the following: 
+	Info/About
+	Activate/Enable/Start/Deactivate/Disable/Stop
+
+question:Info about easy-start
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:Tel me about the different modes of the toothbrush
+answer:There are 5 modes of cleaning in the toothbrush: Clean, White, Polish, Gum care and Sensitive.
+question:I want to know about the clean mode of the toothbrush
+answer:Clean the Sonicare periodically. Rinse the handle and the brush head and wipe down all surfaces with a soft cloth and mild soap, if desired. Do not use sharp objects to clean. Only the charger glass is top rack dishwasher-safe. Do not clean brush head, handle, charging base or charging travel case in the dishwasher.
+question:What is clean mode?
+answer:Clean the Sonicare periodically. Rinse the handle and the brush head and wipe down all surfaces with a soft cloth and mild soap, if desired. Do not use sharp objects to clean. Only the charger glass is top rack dishwasher-safe. Do not clean brush head, handle, charging base or charging travel case in the dishwasher.
+question:how to clean my toothbrush?
+answer:Clean the Sonicare periodically. Rinse the handle and the brush head and wipe down all surfaces with a soft cloth and mild soap, if desired. Do not use sharp objects to clean. Only the charger glass is top rack dishwasher-safe. Do not clean brush head, handle, charging base or charging travel case in the dishwasher.
+question:Tell me about the sensitive mode of the toothbrush
+answer:Sensitive mode is an extra gentle mode for sensitive teeth and gums.
+question:Where should I go for consulting?
+answer:I didn't get you really !! Please choose something related to: 
+	Safety Measures/Dangers/Warnings
+	Charging/Battery
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Disposal/Throw Away/Trash
+	Parts/Components
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Modes/Ways to Use/Quadpacer
+	Easy-Start
+
+question:Where should I go for help?
+answer:If you need service or information or if you have a problem, please visit the Philips website at www.philips.com or contact the Philips Consumer Care Centre in your country. You find its phone number in the worldwide guarantee leaflet. If there is no Consumer Care Centre in your country, go to your local Philips dealer.
+question:Where should I go for dancing?
+answer:Before anything else please make sure you have charged the device and read the user manual properly. You can contact the Philips Consumer Care Center or www.philips.com for more info.
+question:Where should I go for buying?
+answer:Before anything else please make sure you have charged the device and read the user manual properly. You can contact the Philips Consumer Care Center or www.philips.com for more info.
