@@ -91,7 +91,7 @@ def QnA2(question,tl):
     file_name = dir_name + "stop.txt"
     stopwords_io_stream = open(file_name, 'r')
     stopwords = stopwords_io_stream.read().split()
-    tokenized = doc.lower().replace('?','').split()
+    tokenized = doc.lower().replace('?','').replace('-',' ').split()
     refined = [word for word in tokenized if word not in stopwords]
     refined = [stemmer.stem(word) for word in refined]
     doc = " ".join(refined)
@@ -110,13 +110,13 @@ def QnA2(question,tl):
 
     index = similarities.docsim.MatrixSimilarity(lsi[tfidf[corpus]]) # transform corpus to LSI space and index it
     index1 = similarities.docsim.MatrixSimilarity(lda[corpus]) # transform corpus to LDA space and index it
-    #
+
     sims = index[vec_lsi] # perform a similarity query against the corpus
     sims1 = index1[vec_lda] # perform a similarity query against the corpus
     esims = list(enumerate(sims))
     ssims = sorted(esims, key=lambda item: -item[1])
     esims1 = list(enumerate(sims1))
-    ssims1 = sorted(esims1, key=lambda item: -item  [1])
+    ssims1 = sorted(esims1, key=lambda item: -item [1])
     # for item in ssims[:6]:
     #     print(topics[item[0]], item[1])
     # print("==================================================")

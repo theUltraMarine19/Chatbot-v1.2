@@ -89,6 +89,8 @@ def callback_for_reply(question, state, myScore):
         tuple = (mostProbableTopics1[i][0], mostProbableTopics1[i][1]*0.55 + mostProbableTopics2[i][1]*0.45)
         mostProbableTopics.append(tuple)
     mostProbableTopics = sorted(mostProbableTopics, key = lambda x: x[1], reverse = True)
+    mostProbableTopics1 = sorted(mostProbableTopics1, key=lambda x: x[1], reverse=True)
+    mostProbableTopics2 = sorted(mostProbableTopics2, key=lambda x: x[1], reverse=True)
     print(mostProbableTopics1)
     print(mostProbableTopics2)
     print(mostProbableTopics)

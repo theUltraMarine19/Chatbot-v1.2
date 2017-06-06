@@ -68,6 +68,7 @@ class Parser:
         string = string.replace("?", "")
         string = string.replace(",", "")
         string = string.replace(";", "")
+        string = string.replace("-", " ")
         string = string.replace("\s+", " ")
         string = string.lower()
         return string

@@ -425,3 +425,282 @@ question:Where should I go for dancing?
 answer:Before anything else please make sure you have charged the device and read the user manual properly. You can contact the Philips Consumer Care Center or www.philips.com for more info.
 question:Where should I go for buying?
 answer:Before anything else please make sure you have charged the device and read the user manual properly. You can contact the Philips Consumer Care Center or www.philips.com for more info.
+question:how to easy-start my tb
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:Tell me about easy start
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:Tell me about easy start
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:Tell me about easy-
+start
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:Is this product safe for my children ?!
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:Is it safe for my children
+answer:This appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to ensure that they do not play with the appliance. Supervise children while they are brushing until they have established good brushing habits.
+question:Is this product safe for my children ?!
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:Safe
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:Safety
+answer:The Sonicare toothbrush complies with the safety standards for electromagnetic devices. If you have a pacemaker or other implanted device, contact your physician or the device manufacturer of the implanted device before you use the Sonicare. This appliance complies with all standards regarding electromagnetic fields (EMF).
+question:Tell me about easy start
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:Safe children
+answer:This appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to ensure that they do not play with the appliance. Supervise children while they are brushing until they have established good brushing habits.
+question:Consult dentist
+answer:Gum care is a complete mode which combines Clean mode with an additional minute to gently stimulate and massage your gums to improve gum health.
+question:What are the parts of my tb ?!
+answer:The Parts Available in all models are A Brush head, B Handle with ergonomic shape, C Recessed power on/off button, D Hidden brushing mode display, E Charge indicator, F Hygienic travel cap, G Charger glass (specific models), H Charging stand (specific models), I Charging base, J Charging travel case (specific models), K USB wall adapter (specific models) and L USB cord (specific models).
+question:Is it safe for children
+answer:This appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to ensure that they do not play with the appliance. Supervise children while they are brushing until they have established good brushing habits.
+question:Is this product safe for my children
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:What do I do in case of extreme pain
+answer:The toothbrush contains rechargeable batteries. You can charge via wall socket or USB. After 24 hrs charging, the device will work for 3 weeks.
+question:How to use my Sonicare tb
+answer:Do not scrub like a manual toothbrush. Move the brush head slowly and gently across the teeth in a small back and forth motion so the longer bristles reach between your teeth. Apply light pressure to maximize Sonicares effectiveness and let the Sonicare do the brushing for you. The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience you can use the easy-start feature.
+question:Is it ok to use my toothbrush in showers ?!
+answer:Do not scrub like a manual toothbrush. Move the brush head slowly and gently across the teeth in a small back and forth motion so the longer bristles reach between your teeth. Apply light pressure to maximize Sonicares effectiveness and let the Sonicare do the brushing for you. The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience you can use the easy-start feature.
+question:Is this product safe for my children
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:Is this tb
+ safe for my children
+answer:This appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to ensure that they do not play with the appliance. Supervise children while they are brushing until they have established good brushing habits.
+question:Is this product safe for my children?
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:Should I visit my dentist?
+answer:If you need service or information or if you have a problem, please visit the Philips website at www.philips.com or contact the Philips Consumer Care Centre in your country. You find its phone number in the worldwide guarantee leaflet. If there is no Consumer Care Centre in your country, go to your local Philips dealer.
+question:Where should I go for help?
+answer:If you need service or information or if you have a problem, please visit the Philips website at www.philips.com or contact the Philips Consumer Care Centre in your country. You find its phone number in the worldwide guarantee leaflet. If there is no Consumer Care Centre in your country, go to your local Philips dealer.
+question:Should I consult my dentist?
+answer:Gum care is a complete mode which combines Clean mode with an additional minute to gently stimulate and massage your gums to improve gum health.
+question:Tell me about the sensitive mode of the toothbrush?
+answer:Sensitive mode is an extra gentle mode for sensitive teeth and gums.
+question:What are the different modes of the toothbrush?
+answer:There are 5 modes of cleaning in the toothbrush: Clean, White, Polish, Gum care and Sensitive.
+question:For how long is it guranteed to work?
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:What is the gurantee on it?
+answer:The terms of the international guarantee do not cover the following: Brush heads, Damage caused by misuse, abuse, neglect, alterations or unauthorized repair, Normal wear and tear, including chips, scratches, abrasions, discoloration or fading.
+question:What are the international policies applicable?
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:How to clean my toothbrush?
+answer:Clean the Sonicare periodically. Rinse the handle and the brush head and wipe down all surfaces with a soft cloth and mild soap, if desired. Do not use sharp objects to clean. Only the charger glass is top rack dishwasher-safe. Do not clean brush head, handle, charging base or charging travel case in the dishwasher.
+question:Tell me about the clean mode of the brush?
+answer:Clean the Sonicare periodically. Rinse the handle and the brush head and wipe down all surfaces with a soft cloth and mild soap, if desired. Do not use sharp objects to clean. Only the charger glass is top rack dishwasher-safe. Do not clean brush head, handle, charging base or charging travel case in the dishwasher.
+question:How to carry my toothbrush while travelling?
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:travel
+answer:The toothbrush contains rechargeable batteries. You can charge via wall socket or USB. After 24 hrs charging, the device will work for 3 weeks.
+question:For how many hours should I charge my toothbrush before use?
+answer:The toothbrush contains rechargeable batteries. You can charge via wall socket or USB. After 24 hrs charging, the device will work for 3 weeks.
+question:How to dispose my batteries?
+answer:Make sure the rechargeable battery is empty. To remove the rechargeable battery from the handle: Place the handle on a solid surface and lightly tap the housing about 2.5cm from the bottom edge with a hammer. Turn the handle 90 degrees and repeat until the bottom cap separates from the handle.
+question:How to use my sonicare toothbrush?
+answer:Do not scrub like a manual toothbrush. Move the brush head slowly and gently across the teeth in a small back and forth motion so the longer bristles reach between your teeth. Apply light pressure to maximize Sonicares effectiveness and let the Sonicare do the brushing for you. The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience you can use the easy-start feature.
+question:What do I do in case of extreme pain
+answer:The toothbrush contains rechargeable batteries. You can charge via wall socket or USB. After 24 hrs charging, the device will work for 3 weeks.
+question:Is it safe for children
+answer:This appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to ensure that they do not play with the appliance. Supervise children while they are brushing until they have established good brushing habits.
+question:How do I connect my toothbrush to an app
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:How do I charge it
+answer:The toothbrush contains rechargeable batteries. You can charge via wall socket or USB. After 24 hrs charging, the device will work for 3 weeks.
+question:What do I do in case of extreme pain
+answer:The toothbrush contains rechargeable batteries. You can charge via wall socket or USB. After 24 hrs charging, the device will work for 3 weeks.
+question:Where should I go for consulting?
+answer:If you need service or information or if you have a problem, please visit the Philips website at www.philips.com or contact the Philips Consumer Care Centre in your country. You find its phone number in the worldwide guarantee leaflet. If there is no Consumer Care Centre in your country, go to your local Philips dealer.
+question:How should I clean my toothbrush?
+answer:Clean the Sonicare periodically. Rinse the handle and the brush head and wipe down all surfaces with a soft cloth and mild soap, if desired. Do not use sharp objects to clean. Only the charger glass is top rack dishwasher-safe. Do not clean brush head, handle, charging base or charging travel case in the dishwasher.
+question:Tell me about teh sensitive mode of the toothbrush
+answer:Sensitive mode is an extra gentle mode for sensitive teeth and gums.
+question:What are the different modes of the toothbrush?
+answer:There are 5 modes of cleaning in the toothbrush: Clean, White, Polish, Gum care and Sensitive.
+question:How to easy-start my toothbrush?
+answer:I need more help to get you your answer:( Please select one of the following: 
+	Activate/Enable/Start/Deactivate/Disable/Stop
+	Info/About
+
+question:deactivate easy-start
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:Info about easy start
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:Info about easy-start
+answer:There are 5 modes of cleaning in the toothbrush: Clean, White, Polish, Gum care and Sensitive.
+question:give me info about easy-start
+answer:There are 5 modes of cleaning in the toothbrush: Clean, White, Polish, Gum care and Sensitive.
+question:Tell me about the clean mode of the toothbrush
+answer:Clean the Sonicare periodically. Rinse the handle and the brush head and wipe down all surfaces with a soft cloth and mild soap, if desired. Do not use sharp objects to clean. Only the charger glass is top rack dishwasher-safe. Do not clean brush head, handle, charging base or charging travel case in the dishwasher.
+question:Easy start
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:info about easy start
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:info about easy-start
+answer:There are 5 modes of cleaning in the toothbrush: Clean, White, Polish, Gum care and Sensitive.
+question:info about easy start
+answer:I didn't get you really !! Please choose something related to: 
+	Modes/Ways to Use/Quadpacer
+	Cleaning/Maintenance/Rinse/Wash/Storing
+	Safety Measures/Dangers/Warnings
+	Easy-Start
+	Charging/Battery
+	Disposal/Throw Away/Trash
+	Issues/Problems/Warranty/Guarantee/Service/Doesnt Work
+	Parts/Components
+
+question:info about easy-start
+answer:I didn't get you really !! Please choose something related to: 
+	Activate/Enable/Start/Deactivate/Disable/Stop
+	Info/About
+
+question:info about easy start
+answer:I didn't get you really !! Please choose something related to: 
+	Activate/Enable/Start/Deactivate/Disable/Stop
+	Info/About
+
+question:easy-start
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:easy start
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:how to start easy start?
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:info about easy-start
+answer:Do you want to know more about any of the following: 
+	Activate/Enable/Start/Deactivate/Disable/Stop
+	Info/About
+
+question:info
+answer:The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience, the Easy-start feature gradually increases the sonic power over the first 14 brushings. Brushing must last at least 1 minute to properly advance through this ramp-up cycle.
+question:info about easy start?
+answer:Am almost able to find your answer. Tell me whether you want one of the following: 
+	Activate/Enable/Start/Deactivate/Disable/Stop
+	Info/About
+
+question:info about easy-start
+answer:The Sonicare may feel ticklish upon first use. To help you ease into the Sonicare experience, the Easy-start feature gradually increases the sonic power over the first 14 brushings. Brushing must last at least 1 minute to properly advance through this ramp-up cycle.
+question:easy start
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:easy-start
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:how to start easy start?
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
+question:how to start easy-start?
+answer:Place the handle in the plugged-in charging base or charging travel case - Push and hold the on/off button for 2 seconds; 1 beep indicates the Easy-start feature has been deactivated; 2 beeps indicate the feature has been reactivated. Clinical studies must be performed with the Sonicare fully charged and the Easy-start feature deactivated.
