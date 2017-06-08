@@ -1,9 +1,17 @@
 Before running the code please install the following libraries/programs/packages:
+
 1) Python 3.6 and install (using pip install/conda install in anaconda)
 nltk
 psycopg2
 scipy
 gensim
+using pyemd library for word mover's distance
+using matplotlib for sentiment plotting
 
+2) Pgadmin (for graphical interface to the database) (We create the database manually as of now)
 
-2)Pgadmin (for graphical interface to the database)
+3) PyCharm (current framework doesn't work using the terminal because of the directory structure)
+
+4) gcc compiler
+
+------------------------------------------------------------------------------------------
